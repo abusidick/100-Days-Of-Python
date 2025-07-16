@@ -40,6 +40,6 @@ Day folders are labeled `Day01` through `Day100`, matching the course structure:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/100-days-of-python.git
+   git clone https://github.com/abusidick/100-days-of-python.git
    cd 100-days-of-python
 
