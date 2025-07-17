@@ -10,7 +10,7 @@ Day folders are labeled `Day01` through `Day100`, matching the course structure:
 
 | Day | Topic / Project |
 |-----|------------------|
-| 01  | Hello World, Variables & Data Types |
+| 01  | Working With Variables |
 
 
 
