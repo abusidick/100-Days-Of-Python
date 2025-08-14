@@ -12,6 +12,8 @@ Day folders are labeled `Day01` through `Day100`, matching the course structure:
 |-----|------------------|
 | 01  | Working With Variables |
 | 02  | Understanding Data Types and how to manipulate strings  |
+| 03  | Control Flow and Logical operators |
+| 04  | Randomisation and Python Lists |
 
 
 
